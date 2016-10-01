@@ -5,11 +5,7 @@
   <h3>Demo Sản phẩm</h3>
   <br/>
 
-  <video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=_VPbniqNsZ0" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-  </video>
+  [![Alt text for your video](http://img.youtube.com/vi/_VPbniqNsZ0/0.jpg)](https://www.youtube.com/watch?v=_VPbniqNsZ0)
 
   <img src="https://1.bp.blogspot.com/-2BnmULmrtmk/V-8HN-G-LWI/AAAAAAAAK5o/wy5nVHiAzLcCgR0LdLgilqKLdhih_UuwACLcB/s1600/Simulator%2BScreen%2BShot%2BOct%2B1%252C%2B2016%252C%2B7.36.21%2BAM.png" alt="Mountain View" ><br/>
   <img src="https://1.bp.blogspot.com/-k7WsEcUb74A/V-8FkIvuGRI/AAAAAAAAK5Y/yEH2i_DTZEss7er1OpWlxAG2XVkEX2RWgCLcB/s1600/Simulator%2BScreen%2BShot%2BOct%2B1%252C%2B2016%252C%2B7.36.32%2BAM.png" alt="Mountain View" ><br/>
